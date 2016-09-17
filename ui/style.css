@@ -1,19 +1,19 @@
 body {
     font-family: sans-serif;
-    background-color: orange;
-    margin-top: 75px;
+    background-color: red;
+    margin-top: 60px;
 }
 
 .center {
-    text-align: center;
+    text-align: justify;
 }
 
 .text-big {
-    font-size: 400%;
+    font-size: 200%;
 }
 
 .bold {
-    font-weight: bold;
+    font-weight: lighter;
 }
 
 .img-medium {
