@@ -9,11 +9,11 @@ body {
 }
 
 .text-big {
-    font-size: 300%;
+    font-size: 500%;
 }
 
 .bold {
-    font-weight: italics;
+    font-weight: bold;
 }
 
 .img-medium {
