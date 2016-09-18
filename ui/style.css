@@ -1,11 +1,11 @@
 body {
     font-family: sans-serif;
-    background-color: red;
+    background-color: lightpink;
     margin-top: 60px;
 }
 
 .center {
-    text-align: justify;
+    text-align: center;
 }
 
 .text-big {
@@ -13,7 +13,7 @@ body {
 }
 
 .bold {
-    font-weight: lighter;
+    font-weight: bolder;
 }
 
 .img-medium {
